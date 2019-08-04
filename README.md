@@ -23,7 +23,7 @@ token = 1
 session = 2
 ```
 
-## Similar Projects
+## More Similar Projects
 
 - https://github.com/kristapsdz/kcgi
 - https://github.com/dmitigr/fcgi
