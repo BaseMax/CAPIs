@@ -1,4 +1,3 @@
-// Taymindis Max Base
 #include "cgi.h"
 
 CGI getIndex(cgi_session_t * session) {
