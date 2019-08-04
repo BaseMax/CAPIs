@@ -1,6 +1,6 @@
 # C APIs
 
-A sample and tiny RESTful API based on C programming and fastcgi library.
+A sample and tiny RESTful API based on C programming and a fastcgi library.
 
 ## Depends
 
