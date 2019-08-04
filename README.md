@@ -25,6 +25,32 @@ session = 2
 
 ## Performance
 
+### System information
+
+It's not my main system, So:
+```
+                          ./+o+-       max@Base
+                  yyyyy- -yyyyyy+      OS: Ubuntu 19.04 disco
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 5.0.0-20-generic
+           .++ .:/++++++/-.+sss/`      Uptime: 2h 1m
+         .:++o:  /++++++++/:--:/-      Packages: 3484
+        o:+o+:++.`..```.-/oo+++++/     Shell: bash 5.0.3
+       .:+o:+o/.          `+sssoo+/    Resolution: 1366x768
+  .++/+:+oo+o:`             /sssooo.   DE: GNOME 
+ /+++//+:`oo+o               /::--:.   WM: GNOME Shell
+ \+/+o+++`o++o               ++////.   WM Theme: Adwaita
+  .++.o+++oo+:`             /dddhhh.   GTK Theme: Yaru [GTK2/3]
+       .+.o+oo:.          `oddhhhh+    Icon Theme: Yaru
+        \+.++o+o``-````.:ohdhhhhh+     Font: Ubuntu 11
+         `:o+++ `ohhhhhhhhyo++os:      CPU: Intel Core i5-3570 @ 4x 3.8GHz [27.8°C]
+           .o:`.syhhhhhhh/.oo++o`      GPU: GeForce GT 610
+               /osyyyyyyo++ooo+++/     RAM: 3127MiB / 7936MiB
+                   ````` +oo+++o\:    
+                          `oo++.      
+```
+
+### Benchmark
+
 $ ab -c 100 -n 10000 http://localhost/?token=1&session=2
 
 ```
