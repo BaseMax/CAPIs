@@ -136,4 +136,4 @@ Percentage of the requests served within a certain time (ms)
 
 ---------
 
-Thank you from Taymindis.
+Thank Taymindis.
